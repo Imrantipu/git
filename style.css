@@ -2,34 +2,3 @@ body{
     font-family: 'Poppins', sans-serif;
     background-color: antiquewhite;
 }
-p{
-    background-color: darkslategray;
-    color: white;
-    /* display: inline; */
-    
-}
-a{
- background-color: aqua;
- color: white;
- /* text-align: right; */
- display: flex;
- justify-content: space-evenly;
- text-decoration: none;
-
-}
-img{
-    display: block;
-    margin-left: auto;
-}
-ol{
-    background-color: blue;
-    color: white;
-
-}
-li{
-    background-color: chartreuse;
-}
-input{
-    background-color: aquamarine;
-    
-}
