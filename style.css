@@ -2,5 +2,7 @@ body{
     font-family: 'Poppins', sans-serif;
     background-color: antiquewhite;
 }
-h1{background-color: aqua;}
-
+.blog{
+    color: blueviolet;
+    background-color: aqua;
+}
