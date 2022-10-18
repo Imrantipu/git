@@ -2,7 +2,7 @@ body{
     font-family: 'Poppins', sans-serif;
     background-color: antiquewhite;
 }
-.blog{
-    color: blueviolet;
-    background-color: aqua;
+
+.blog input[type="submit"]{
+    background-color: aquamarine;
 }
